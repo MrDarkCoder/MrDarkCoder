@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go and DSA (C++)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MrDarkCoder?tab=repositories](https://github.com/MrDarkCoder?tab=repositories)
+- 👨‍💻 All of my projects are available at my - [repos](https://github.com/MrDarkCoder?tab=repositories)
 
 - 💬 Ask me about **React, Redux, Next, Node, C++**
 
@@ -15,7 +15,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sridharpadmanaben/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sridharpadmanaben/" height="30" width="20" /></a>
+<a href="https://www.linkedin.com/in/sridharpadmanaben/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sridharpadmanaben/" height="30" width="20" /></a>
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdarkcoder&show_icons=true&locale=en&layout=compact" alt="mrdarkcoder" /></p> -->
