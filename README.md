@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sridhar A P</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Go-Lang and DSA (C++)**
+- 🌱 I’m currently learning **Go and DSA (C++)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrDarkCoder?tab=repositories](https://github.com/MrDarkCoder?tab=repositories)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1a4Sg1a2aZBrFoRzMti28bLoJKZPGiyEZ/view?usp=sharing](https://drive.google.com/file/d/1a4Sg1a2aZBrFoRzMti28bLoJKZPGiyEZ/view?usp=sharing)
 
-- ⚡ Fun fact **I extremely introvert! :) - Nope Feel Free To Contact Me**
+- ⚡ Fun fact **I'm extremely introvert! :) - Nope Feel Free To Contact Me**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
